@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moorhuhn", "Moorhuhn\Moorhuhn\Moorhuhn.csproj", "{B0559DA5-E5F5-4116-B06D-881BF8C750A0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MoorhuhnContent", "Moorhuhn\MoorhuhnContent\MoorhuhnContent.contentproj", "{618EE28B-1A17-43D3-85F3-8F6692615749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0559DA5-E5F5-4116-B06D-881BF8C750A0}.Debug|x86.ActiveCfg = Debug|x86
+		{B0559DA5-E5F5-4116-B06D-881BF8C750A0}.Debug|x86.Build.0 = Debug|x86
+		{B0559DA5-E5F5-4116-B06D-881BF8C750A0}.Release|x86.ActiveCfg = Release|x86
+		{B0559DA5-E5F5-4116-B06D-881BF8C750A0}.Release|x86.Build.0 = Release|x86
+		{618EE28B-1A17-43D3-85F3-8F6692615749}.Debug|x86.ActiveCfg = Debug|x86
+		{618EE28B-1A17-43D3-85F3-8F6692615749}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
